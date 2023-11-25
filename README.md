@@ -2,6 +2,5 @@
 
 News content will not be loaded due to some NewsAPI policy only runs on local machine
 
-![myshortsdemo](https://github.com/SharanDeepak01/myshorts/assets/138575596/2a2ebb77-35c7-4ccd-b290-b5026b43beb0)
-![1](https://github.com/SharanDeepak01/myshorts/assets/138575596/f241cda4-a187-4d61-a929-d6db0135b53c)
-![2](https://github.com/SharanDeepak01/myshorts/assets/138575596/2d43341c-5263-4e09-97c9-174bf7732b21)
+![inshort1](https://github.com/SharanDeepak01/myshorts/assets/138575596/6759e1d7-6315-4210-9918-ef93bbefa892)
+![inshort2](https://github.com/SharanDeepak01/myshorts/assets/138575596/047e4506-7282-4cf5-b51b-454651dbedf3)
